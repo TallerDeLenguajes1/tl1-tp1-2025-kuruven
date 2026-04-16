@@ -17,4 +17,8 @@ Es un archivo de texto donde escribis reglas.
 - .log
 
 
-##
+### Punto 4) apartado g
+* El resultado es el mismo por que mando la direccion de memoria de una variable, y en la otra una variable que tiene esa direccion, por lo tanto son iguales.
+* El punto 4 tiene la direccion del puntero.
+* No es igual ya que es otra varible como cada variable que tiene su propia direccion de memoria.
+ 
