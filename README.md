@@ -15,3 +15,6 @@ Es un archivo de texto donde escribis reglas.
 - .exe
 - .o
 - .log
+
+
+##
